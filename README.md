@@ -2,6 +2,7 @@
 <h3>My name is Asgari and I'm pursuing a Computer Science degree at Toronto Metropolitan University. I'm a student with a passion and curiosity for learning. I am looking for internship opportunities to explore different fields in computer science and expand my current skillset.</h3>
 
 <p dir="auto"> About me</p>
+
 - 🌱 I’m currently learning **React Native**
 - 🤔 I’m looking for Summer 2024 internship opportunities
 - 📫 How to reach me **begum.asgari03@gmail.com**
