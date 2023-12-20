@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Asgari Begum</h1>
-<h3 align="center">My name is Asgari and I'm pursuing a Computer Science degree at Toronto Metropolitan University. I'm a student with a passion and curiosity for learning. I am looking for internship opportunities to explore different fields in computer science and expand my current skillset.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3>My name is Asgari and I'm pursuing a Computer Science degree at Toronto Metropolitan University. I'm a student with a passion and curiosity for learning. I am looking for internship opportunities to explore different fields in computer science and expand my current skillset.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asgari03&label=Profile%20views&color=0e75b6&style=flat" alt="asgari03" /> </p>
-
+<p dir="auto"> About me</p>
 - 🌱 I’m currently learning **React Native**
-
+- 🤔 I’m looking for Summer 2024 internship opportunities
 - 📫 How to reach me **begum.asgari03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
